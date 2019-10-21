@@ -1,10 +1,9 @@
-# crawlers_WH
-Crawlers_WH
+# Crawlers
 
-3 crawlers for such websites:
+Crawlers for the following websites:
 
-http://www.amainhobbies.com/
+[Amainhobbies](http://www.amainhobbies.com/)
 
-http://www.rcplanet.com/
+[RcPlanet](http://www.rcplanet.com/)
 
-http://www3.towerhobbies.com/
+[TowerHibbies](http://www3.towerhobbies.com/)
