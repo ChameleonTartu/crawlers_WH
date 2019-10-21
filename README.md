@@ -6,4 +6,4 @@ Crawlers for the following websites:
 
 [RcPlanet](http://www.rcplanet.com/)
 
-[TowerHibbies](http://www3.towerhobbies.com/)
+[TowerHobbies](http://www3.towerhobbies.com/)
